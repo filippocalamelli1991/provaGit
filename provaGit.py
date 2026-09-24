@@ -3,3 +3,5 @@ import numpy as np
 # seconda modifica
 # terza modifica da VS
 # quarta modifica commit diretto
+# quinta modifica add
+# sesta modifica no add
