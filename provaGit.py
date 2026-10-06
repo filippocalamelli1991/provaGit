@@ -5,3 +5,4 @@ import numpy as np
 # quarta modifica commit diretto
 # quinta modifica add
 # sesta modifica no add
+# ripresa modifiche
