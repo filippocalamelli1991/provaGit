@@ -7,7 +7,7 @@ def main():
     a = 10
     b = 11
 
-    s,d = lib.sumDiffsumDiff(a, b)
+    s,d = lib.sumDiff(a, b)
 
     print(f"la somma e la differenza di {a} e {b} sono {s} e {d}")
 
