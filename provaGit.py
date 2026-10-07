@@ -1,7 +1,7 @@
 # provaGit
 # importo la mia libreria
 
-# modifica per prova commit remoto
+# provo secondo branch
 import lib
 
 def main():
