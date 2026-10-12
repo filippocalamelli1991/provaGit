@@ -1,0 +1,3 @@
+# file da ignorare
+commenti/*
+!commenti/eccezione.txt
