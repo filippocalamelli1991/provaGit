@@ -4,9 +4,6 @@ import numpy as np
 # importo la mia libreria
 import lib
 
-# modifica per prova commit remoto
-# aggiungo modifica gestione array
-
 def main():
     # input
     a = np.array([11, 12, 9])
